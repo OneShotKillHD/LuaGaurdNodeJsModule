@@ -1,7 +1,7 @@
 # LuaGaurd
 luaGuard Whitelist is a server based authentication system
 
-(I am not the original dev of this I just made a another nodejs module for it. Because i dont like the other one (no offense 😅))
+(I am not a dev for luawl. this is just another nodejs module for it. Because i dont like the other one (no offense 😅))
 ## Features
 
 - Multiple layers of security
